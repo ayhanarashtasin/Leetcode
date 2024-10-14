@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
+## Math
+|  |
+| ------- |
+| [0935-orderly-queue](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0935-orderly-queue) |
+## String
+|  |
+| ------- |
+| [0935-orderly-queue](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0935-orderly-queue) |
+## Sorting
+|  |
+| ------- |
+| [0935-orderly-queue](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0935-orderly-queue) |
 <!---LeetCode Topics End-->
