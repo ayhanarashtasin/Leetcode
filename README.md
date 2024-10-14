@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/1185-find-in-mountain-array) |
+| [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/1185-find-in-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
 <!---LeetCode Topics End-->
