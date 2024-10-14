@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Interactive
