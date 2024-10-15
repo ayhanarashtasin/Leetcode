@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1646-kth-missing-positive-number) |
 | [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1646-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
