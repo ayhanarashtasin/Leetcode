@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
