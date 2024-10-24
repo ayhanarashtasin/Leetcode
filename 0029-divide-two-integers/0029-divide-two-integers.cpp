@@ -1,42 +1,39 @@
-#include <climits>
-#include <cstdlib>
-
 class Solution {
 public:
     int divide(int dividend, int divisor) {
-        // Handle overflow case
-        if (dividend == INT_MIN && divisor == -1) {
-            return INT_MAX;  // Return 2^31 - 1 because INT_MIN / -1 would overflow
+        if(dividend==divisor){//if dividend and divisor is equal we return 1.
+            return 1;
         }
-
-        // Determine the sign of the result
-        int sign = (dividend < 0) == (divisor < 0) ? 1 : -1;
-
-        // Work with absolute values to simplify the logic
-        long long absDividend = std::llabs(dividend);
-        long long absDivisor = std::llabs(divisor);
-        long long quotient = 0;
-
-        // Perform division using bit manipulation
-        while (absDividend >= absDivisor) {
-            long long tempDivisor = absDivisor;
-            long long multiple = 1;
-            // Find the largest multiple such that (divisor * multiple) <= dividend
-            while (absDividend >= (tempDivisor << 1)) {
-                tempDivisor <<= 1;
-                multiple <<= 1;
+        bool sign = true; //take sign to handle negative integer.
+        if(dividend>=0 && divisor<0){
+            sign = false;
+        }
+        if (dividend<0 && divisor>0){
+            sign = false;
+        }
+        long long ans = 0;
+        long long n = abs(dividend);
+        long long d = abs(divisor);
+        while(n>=d){
+            int count = 0;
+            while(n>=(d<<(count+1))){
+                count+=1;
             }
-            absDividend -= tempDivisor;
-            quotient += multiple;
+            ans+=1<<count;
+            n = (n-(d<<count));
         }
-
-        // Apply the sign to the result
-        quotient = sign * quotient;
-
-        // Ensure the result is within the 32-bit signed integer range
-        if (quotient > INT_MAX) return INT_MAX;
-        if (quotient < INT_MIN) return INT_MIN;
-
-        return quotient;
+        if (ans==(1<<31)&& sign){
+            return INT_MAX;
+        }
+        if (ans==(1<<31)&& !sign){
+            return INT_MIN;
+        }
+        if (sign==true){
+            return ans;
+        }
+        if(sign==false){
+            return -ans;
+        }
+        return {};
     }
 };
