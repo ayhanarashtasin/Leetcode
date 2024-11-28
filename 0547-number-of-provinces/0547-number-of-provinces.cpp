@@ -15,6 +15,7 @@ public:
             for(int j=0; j<isConnected.size(); j++){
                 if(isConnected[i][j]==1 && i!=j){
                     adjL[i].push_back(j);
+                    adjL[j].push_back(i);
                 }
             }
         }
