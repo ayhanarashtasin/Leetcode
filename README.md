@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ayhanarashtasin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0935-orderly-queue](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0935-orderly-queue) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ayhanarashtasin/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayhanarashtasin/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0733-flood-fill) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayhanarashtasin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -160,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayhanarashtasin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
