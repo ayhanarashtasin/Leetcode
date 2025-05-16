@@ -100,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0733-flood-fill) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -140,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
