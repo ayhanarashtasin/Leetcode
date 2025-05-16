@@ -15,9 +15,9 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        return sumN(root,0);
+      return helper(root,0);
     }
-    public int sumN(TreeNode root,int value){
+    public int helper(TreeNode root , int value){
         if(root==null){
             return 0;
         }
@@ -25,6 +25,6 @@ class Solution {
         if(root.left==null && root.right==null){
             return value;
         }
-        return sumN(root.left,value) + sumN(root.right,value);
+        return helper(root.left,value) + helper(root.right,value);
     }
 }
