@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayhanarashtasin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0733-flood-fill) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1036-rotting-oranges) |
 ## Union Find
@@ -150,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayhanarashtasin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,5 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayhanarashtasin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/ayhanarashtasin/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
