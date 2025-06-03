@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/ayhanarashtasin/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0410-split-array-largest-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/ayhanarashtasin/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0231-power-of-two) |
 | [0935-orderly-queue](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1013-fibonacci-number) |
@@ -177,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ayhanarashtasin/Leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
