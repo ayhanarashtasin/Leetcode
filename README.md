@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1646-kth-missing-positive-number) |
 | [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayhanarashtasin/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayhanarashtasin/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0410-split-array-largest-sum) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayhanarashtasin/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,10 +183,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayhanarashtasin/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayhanarashtasin/Leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/ayhanarashtasin/Leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Counting
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayhanarashtasin/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
