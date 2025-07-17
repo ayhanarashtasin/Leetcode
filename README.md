@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayhanarashtasin/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1646-kth-missing-positive-number) |
 | [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0410-split-array-largest-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayhanarashtasin/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayhanarashtasin/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayhanarashtasin/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
