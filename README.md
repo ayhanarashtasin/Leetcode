@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayhanarashtasin/Leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/ayhanarashtasin/Leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0908-middle-of-the-linked-list](https://github.com/ayhanarashtasin/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayhanarashtasin/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ayhanarashtasin/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
