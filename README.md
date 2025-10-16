@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0907-koko-eating-bananas) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/ayhanarashtasin/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayhanarashtasin/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/ayhanarashtasin/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayhanarashtasin/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayhanarashtasin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/ayhanarashtasin/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayhanarashtasin/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/ayhanarashtasin/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayhanarashtasin/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
