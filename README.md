@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayhanarashtasin/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1646-kth-missing-positive-number) |
 | [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ayhanarashtasin/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayhanarashtasin/Leetcode/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2360-substring-with-largest-variance](https://github.com/ayhanarashtasin/Binary-Search-Leetcode-GFG/tree/master/2360-substring-with-largest-variance) |
 ## Math
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0231-power-of-two) |
 | [0935-orderly-queue](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/ayhanarashtasin/Leetcode-Geeksforgeeks-/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayhanarashtasin/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayhanarashtasin/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayhanarashtasin/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayhanarashtasin/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
